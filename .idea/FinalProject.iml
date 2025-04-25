@@ -1,9 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="DBE_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="Python" name="Python facet">
+      <configuration sdkName="Python 3.10 (CSC648Project)" />
+    </facet>
+  </component>
   <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$/../CSC648Project">
+      <excludeFolder url="file://$MODULE_DIR$/../CSC648Project/.venv" />
+    </content>
     <content url="file://$MODULE_DIR$" />
     <content url="file://$MODULE_DIR$/../csc675-775-group-project-sp25-lap1597" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Python 3.10 (CSC648Project) interpreter library" level="application" />
   </component>
 </module>
