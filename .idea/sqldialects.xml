@@ -5,5 +5,7 @@
     <file url="file://$PROJECT_DIR$/insert.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/../csc675-775-group-project-sp25-lap1597/Project/Scripts/Databasemodel.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/../csc675-775-group-project-sp25-lap1597/Project/Scripts/InsertDataFAKE.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/../csc675-775-group-project-sp25-lap1597/Project/Scripts/Procedure.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/../csc675-775-group-project-sp25-lap1597/Project/Scripts/Triggers.sql" dialect="MySQL" />
   </component>
 </project>
